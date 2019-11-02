@@ -1,0 +1,2 @@
+# Attack
+Basic Battle Script
